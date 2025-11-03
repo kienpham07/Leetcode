@@ -1,3 +1,5 @@
+# Question 347 (Leetcode): Top K frequent Elements - Solution 1 (Optimal)
+
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         hash_map = {}
