@@ -1,4 +1,4 @@
-#Question 217 (Leetcode): Contains Duplicate - Solution 2 (Optimal)
+#Question 242 (Leetcode): Valid Anagram - Solution 2 (Optimal)
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
