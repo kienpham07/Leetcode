@@ -21,3 +21,6 @@ class Solution:
                 j -= 1
 
         return max_res
+
+# Time complexity: O(n)
+# Space complexity: O(1)
