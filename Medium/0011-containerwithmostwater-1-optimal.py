@@ -1,4 +1,4 @@
-# #Question 11 (Leetcode): Container with Most Water - Solution 1 - Optimal
+# Question 11 (Leetcode): Container with Most Water - Solution 1 - Optimal
 # Use two pointer technique
 
 class Solution:
